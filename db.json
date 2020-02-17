@@ -3,7 +3,5 @@
       		"storageType": "Kitchen",
       		"locationCount": 1,
       		"userId": 101,
-     	 	"createdDate": "2020-02-03T06:36:56.355Z",
-     		 "updatedDate": "2020-02-03T06:36:56.355Z",
       		"products":[1,2,3]
 }
